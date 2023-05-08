@@ -1,0 +1,42 @@
+.body
+{
+    margin: 0;
+}
+.alignment
+{
+    margin-left: 200px;
+    margin-right: auto;
+}
+.style
+{
+    height:fit-content;
+    
+}
+.text-color
+{
+    width:522px;
+}
+.txt-clr 
+{
+    color: Red;
+    font-size: 30px;
+}
+.fnt-size
+{
+    font-size: 20px;
+}
+.instruction
+{
+    font-size: 17px;
+    margin-top: 10px;
+}
+.instruction-container
+{
+    background-color: antiquewhite;
+    margin-top: 3px;
+    padding-left: 15px;
+}
+.col-sm-6-
+{
+    width: 500px;
+}

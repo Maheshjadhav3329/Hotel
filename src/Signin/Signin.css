@@ -1,0 +1,57 @@
+.col-md-9
+{
+    background-color: aqua;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    height: 440px;
+    margin-left: 700px;
+    margin-right: auto;
+    margin-top: 100px;
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    
+    
+    
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px 1px #808080;
+}
+.info-container-text
+{
+    color:tomato;
+    margin: 10px;
+    font-size: 34px;
+}
+.login-img
+{
+    height: 50px;
+    padding-top: 10px;
+}
+.link-signup
+{
+    text-decoration: none;
+    color: rgb(26, 4, 15);
+}
+.user-input
+{
+    margin:15px;
+    width: 250px;
+    background-color: transparent;
+    color: aliceblue;
+}
+.form-title
+{
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+.login-button
+{
+    text-align: center;
+    border-radius: 8px;
+}
+.login-button:hover
+{
+    color:black;
+    background-color: #6892ed;
+    box-shadow: 2px 2px 4px 2px;
+}

@@ -1,0 +1,26 @@
+.col-md-7
+{
+    background-color: aqua;
+    align-items: center;
+    text-align: center;
+    width: 400px;
+    height: 360px;
+    margin-left: 550px;
+    margin-right: auto;
+    margin-top: 40px;
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    
+    
+    
+    border-radius: 20px;
+    box-shadow: 3px 3px 5px 1px #808080;
+}
+.login-container
+{
+    height:705px;
+}
+.admin{
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    height: auto;
+    margin: 0%;
+}
